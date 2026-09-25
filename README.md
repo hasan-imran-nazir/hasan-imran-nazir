@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.jpg" alt="Hasan Imran Nazir Banner" width="100%">
+<img src="./assets/banner.png" alt="Hasan Imran Nazir Banner" width="100%">
 
 <h1>Hasan Imran Nazir</h1>
 
