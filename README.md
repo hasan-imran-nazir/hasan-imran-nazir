@@ -80,33 +80,30 @@ A Computer Science & Engineering student with a strong interest in front-end dev
 
 ## Contribution Graph
 
-<picture>
+<picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hasan-imran-nazir/hasan-imran-nazir/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hasan-imran-nazir/hasan-imran-nazir/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/hasan-imran-nazir/hasan-imran-nazir/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hasan-imran-nazir/hasan-imran-nazir/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
 ## Featured Projects
---------------------
+
+---
 
 ## Social Links
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/hasanimrannazir/">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
-</a>
-
-<a href="https://www.kaggle.com/imrannazir266">
-  <img src="https://images.icon-icons.com/2699/PNG/512/kaggle_logo_icon_168473.png" alt="Kaggle">
+<<a href="https://www.linkedin.com/in/hasanimrannazir/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="https://imran_nazir.bio.link/">
-  <img src="https://cdn-icons-png.flaticon.com/512/7867/7867852.png" alt="Portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
 </a>
 
-<a href="in794707@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" alt="Email">
+<a href="mailto:in794707@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 </div>
