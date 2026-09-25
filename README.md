@@ -14,9 +14,9 @@ A Computer Science & Engineering student with a strong interest in front-end dev
 
 ## Current Activities
 
-* Learning and exploring **Next.js**
-* Strengthening my **React** skills
-* Planning and exploring ideas for new projects
+- Learning and exploring **Next.js**
+- Strengthening my **React** skills
+- Planning and exploring ideas for new projects
 
 ## Skills & Technologies
 
@@ -87,26 +87,25 @@ A Computer Science & Engineering student with a strong interest in front-end dev
 </picture>
 
 ## Featured Projects
-
-<!-- Pinned repositories will be added here -->
+--------------------
 
 ## Social Links
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/hasanimrannazir/">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
 </a>
 
-<a href="YOUR_KAGGLE_URL">
-  <img src="https://skillicons.dev/icons?i=kaggle" alt="Kaggle">
+<a href="https://www.kaggle.com/imrannazir266">
+  <img src="https://images.icon-icons.com/2699/PNG/512/kaggle_logo_icon_168473.png" alt="Kaggle">
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
-  <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio">
+<a href="https://imran_nazir.bio.link/">
+  <img src="https://cdn-icons-png.flaticon.com/512/7867/7867852.png" alt="Portfolio">
 </a>
 
-<a href="YOUR_EMAIL_ADDRESS">
+<a href="in794707@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Email">
 </a>
 
