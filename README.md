@@ -14,9 +14,9 @@ A Computer Science & Engineering student with a strong interest in front-end dev
 
 ## Current Activities
 
-- Learning and exploring **Next.js**
-- Strengthening my **React** skills
-- Planning and exploring ideas for new projects
+* Learning and exploring **Next.js**
+* Strengthening my **React** skills
+* Planning and exploring ideas for new projects
 
 ## Skills & Technologies
 
@@ -56,27 +56,11 @@ A Computer Science & Engineering student with a strong interest in front-end dev
   <img src="https://skillicons.dev/icons?i=react,nextjs" alt="Frameworks & Libraries">
 </p>
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hasan-imran-nazir&show_icons=true&hide_border=true" height="150" alt="GitHub Stats">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-imran-nazir&layout=compact&hide_border=true" height="150" alt="Top Languages">
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=hasan-imran-nazir&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="GitHub Streak">
-
-</div>
-
-## GitHub Trophy
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/hasan-imran-nazir/hasan-imran-nazir/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="GitHub Trophy">
-
-</div>
+![](https://github-readme-stats.shion.dev/api?username=hasan-imran-nazir\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=hasan-imran-nazir\&theme=dark\&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=hasan-imran-nazir\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=false\&layout=compact)
 
 ## Contribution Graph
 
@@ -94,16 +78,6 @@ A Computer Science & Engineering student with a strong interest in front-end dev
 
 <div align="center">
 
-<<a href="https://www.linkedin.com/in/hasanimrannazir/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<a href="https://imran_nazir.bio.link/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-</a>
-
-<a href="mailto:in794707@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
+<a href="https://www.linkedin.com/in/hasanimrannazir/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://imran_nazir.bio.link/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a> <a href="mailto:in794707@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 </div>
