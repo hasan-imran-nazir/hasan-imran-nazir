@@ -4,7 +4,7 @@
 
 <h1>Hasan Imran Nazir</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4500&pause=800&center=true&vCenter=true&width=500&lines=CSE+Student+%7C+Feni+University;Front-End+Developer;React+%26+Next.js+Developer;Exploring+Modern+Web+Development" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EE9B5&center=true&vCenter=true&width=435&lines=Front-End+Developer;React+%26+Next.js+Developer;CSE+Student+%7C+Feni+University;Exploring+Modern+Web+Development" alt="Typing SVG" />
 
 </div>
 
